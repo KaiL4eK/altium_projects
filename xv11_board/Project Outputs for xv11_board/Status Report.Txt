@@ -1,0 +1,13 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [xv11_board.PrjPcb]
+   Generated File[xv11_board.GTL]
+   Generated File[xv11_board.RUL]
+   Generated File[xv11_board.EXTREP]
+   Generated File[xv11_board.REP]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 20:01:28 On 07.02.2018
